@@ -9,5 +9,6 @@
  *  Statistics module info file
  */
 
+$module_author = 'Samerton';
 $module_version = 'v1.0.0';
 $nameless_version = '2.0.0-dev';
